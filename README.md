@@ -1,6 +1,6 @@
 # Web Development Project - _PicklePulse_
 
-Submitted by: **Nam Nguyen**
+Author: **Nam Nguyen**
 
 Netlify URL: https://bejewelled-treacle-8ea4ee.netlify.app/
 
