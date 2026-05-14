@@ -1,16 +1,16 @@
-# Web Development Final Project - _PicklePulse_
+# Web Development Project - _PicklePulse_
 
 Submitted by: **Nam Nguyen**
-z number: z23539620
+
 Netlify URL: https://bejewelled-treacle-8ea4ee.netlify.app/
 
 This web app: **PicklePulse is a pickleball community forum where users can sign up/log in, create posts, upload local images or use image URLs, set post flags (General/Question/Opinion), browse and filter the home feed, and interact through upvotes, comments, editing, and deleting their own posts.**
 
-Time spent: **20** hours spent in total
+Time spent: **40** hours spent in total
 
-## Required Features
+## Features
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] **Web app includes a create form that allows the user to create posts**
   - Form requires users to add a post title
@@ -42,26 +42,15 @@ The following **required** functionality is completed:
 - [x] **A post that a user previously created can be edited or deleted from its post pages**
   - After a user creates a new post, they can go back and edit the post
   - A previously created post can be deleted from its post page
-
-The following **optional** features are implemented:
-
-- [ ] Web app implements pseudo-authentication
-  - Users can only edit and delete posts or delete comments by entering the secret key, which is set by the user during post creation
-  - **or** upon launching the web app, the user is assigned a random user ID. It will be associated with all posts and comments that they make and displayed on them
-  - For both options, only the original user author of a post can update or delete it
-- [ ] Users can repost a previous post by referencing its post ID. On the post page of the new post
-  - Users can repost a previous post by referencing its post ID
-  - On the post page of the new post, the referenced post is displayed and linked, creating a thread
 - [x] Users can customize the interface
   - e.g., selecting the color scheme or showing the content and image of each post on the home feed
 - [x] Users can add more characterics to their posts
-  - Users can share and view web videos
   - Users can set flags such as "Question" or "Opinion" while creating a post
   - Users can filter posts by flags on the home feed
   - Users can upload images directly from their local machine as an image file
 - [x] Web app displays a loading animation whenever data is being fetched
 
-The following **additional** features are implemented:
+Bonus features:
 
 - [x] Full Supabase authentication flow (login, signup, logout, forgot password, reset password, Google OAuth)
 - [x] Deployment the app to Netlify, here is the netlify url: https://bejewelled-treacle-8ea4ee.netlify.app/
@@ -71,12 +60,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Codepath GIF with required features:
-
 <img width="1280" height="720" alt="final_project" src="https://github.com/user-attachments/assets/65fccaf0-ac4a-407b-a9d8-610edb1f1558" />
 
-
-Canvas GIF with 3 extra features:
+Bonus features walkthrough:
 
 <img width="1280" height="676" alt="canvas_submission" src="https://github.com/user-attachments/assets/71deeb67-3195-4b87-8e7c-20f4f8dba8fc" />
 
