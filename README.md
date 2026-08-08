@@ -6,11 +6,7 @@ Netlify URL: https://bejewelled-treacle-8ea4ee.netlify.app/
 
 This web app: **PicklePulse is a pickleball community forum where users can sign up/log in, create posts, upload local images or use image URLs, set post flags (General/Question/Opinion), browse and filter the home feed, and interact through upvotes, comments, editing, and deleting their own posts.**
 
-Time spent: **40** hours spent in total
-
-## Features
-
-The following functionality is completed:
+## Features in the app:
 
 - [x] **Web app includes a create form that allows the user to create posts**
   - Form requires users to add a post title
@@ -49,9 +45,7 @@ The following functionality is completed:
   - Users can filter posts by flags on the home feed
   - Users can upload images directly from their local machine as an image file
 - [x] Web app displays a loading animation whenever data is being fetched
-
-Bonus features:
-
+      
 - [x] Full Supabase authentication flow (login, signup, logout, forgot password, reset password, Google OAuth)
 - [x] Deployment the app to Netlify, here is the netlify url: https://bejewelled-treacle-8ea4ee.netlify.app/
 - [x] Users can have an LLM (Gemini) to provide an overall summary of Post. The LLM provides title, description, posts, upvotes, comments, and a summary.
@@ -61,8 +55,6 @@ Bonus features:
 Here's a walkthrough of implemented user stories:
 
 <img width="1280" height="720" alt="final_project" src="https://github.com/user-attachments/assets/65fccaf0-ac4a-407b-a9d8-610edb1f1558" />
-
-Bonus features walkthrough:
 
 <img width="1280" height="676" alt="canvas_submission" src="https://github.com/user-attachments/assets/71deeb67-3195-4b87-8e7c-20f4f8dba8fc" />
 
